@@ -14,7 +14,7 @@
  
 <br>
  
-### Me segue a gente nas redes abaixo!
+### Me segue nas redes abaixo!
  
 <div> 
   <a href="https://www.linkedin.com/in/alexandre-alves-6657b1b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
