@@ -13,7 +13,7 @@
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
   <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Node JS" height="30" width="40" src="https://www.svgrepo.com/show/303360/nodejs-logo.svg">
+  <img align="center" alt="Node JS" height="30" width="40" src="https://logowik.com/content/uploads/images/nodejs.jpg">
   
   
  
