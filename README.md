@@ -1,12 +1,6 @@
 # Oi, sou o Alexandre Alves😎👨‍💻
 ## Desenvolvedor Full Stack Jr
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre020285&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api.svg?username=alexandre020285&show_icons=true&theme=tokyonight&cache_seconds=7200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs.svg?username=alexandre020285&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandre020285&show_icons=true&theme=tokyonight)
-
-
 
 
 <div align="left">
@@ -48,6 +42,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/alexandre-alves-6657b1b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 
 
