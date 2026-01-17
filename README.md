@@ -1,6 +1,7 @@
 # Oi, sou o Alexandre Alves😎👨‍💻
 ## Desenvolvedor Full Stack Jr
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandre020285&show_icons=true&theme=tokyonight)
 
 <div align="left">
   <a href="https://github.com/alexandre020285">
@@ -41,5 +42,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/alexandre-alves-6657b1b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 
